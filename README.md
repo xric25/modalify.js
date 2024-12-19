@@ -74,8 +74,8 @@ showModalAlert({
 ---
 
 ## Screenshot 📸  
-Replace this section with a screenshot of your modal alert examples:  
-![Modalify.js Screenshot](https://i.postimg.cc/RhjdcNNp/Screenshot-3.png)  
+![Modalify.js Screenshot](https://i.postimg.cc/RhjdcNNp/Screenshot-3.png)
+![Modalify.js Screenshot](https://i.postimg.cc/JhYHvSMj/Screenshot-4.png)
 
 ---
 
