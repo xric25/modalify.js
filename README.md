@@ -14,7 +14,7 @@ A lightweight, customizable JavaScript library for creating dynamic, responsive,
 
 1. Include Modalify.js in your HTML file:
 ```html
-<script src="modalify.js"></script>
+<script src="modalify-min.js"></script>
 ```
 
 2. Call the `showModalAlert` function to create modals.  
